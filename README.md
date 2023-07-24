@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadHameem
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Wix Development.
+- 👀 I have extensive experience in CMS Development.
+- 🌱 I’m currently learning custom languages like (React.js, Node.js, and Laravel.
 - 📫 How to reach me, shoot me a quick message here!
 
 <!---
